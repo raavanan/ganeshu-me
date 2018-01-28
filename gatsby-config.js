@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://ganeshu.me/',
     title: 'Blog by Ganesh Umashankar',
-    subtitle: 'Hi I am Ganesh, I have been working on Web Technologies for 5+ Years and just Getting started.',
+    subtitle: 'Hi, I am Ganesh. I have been working on Web Technologies for 5+ Years and just Getting started.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -23,8 +23,8 @@ module.exports = {
       name: 'Ganesh Umashankar',
       email: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: '@ganilaughs',
+      github: 'raavanan',
       rss: '#',
       vk: '#'
     }
@@ -115,7 +115,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: '' }
+      options: { trackingId: 'UA-113140067-1' }
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
