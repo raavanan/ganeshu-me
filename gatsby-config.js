@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     url: 'https://ganeshu.me/',
     title: 'Blog by Ganesh Umashankar',
-    subtitle: 'Hi, I am Ganesh. I have been working on Web Technologies for 5+ Years and just Getting started.',
+    subtitle: 'Hi, I am Ganesh. I have been working on Web Technologies for 5+ Years and I am just Getting started.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
